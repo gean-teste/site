@@ -1,0 +1,128 @@
+.bol{
+    background-color: blue;
+    text-align: center;
+ 
+}
+.corpo {
+    background-color: cadetblue;
+}
+.rodape{
+   padding: 100px;
+}
+.roda{
+text-align: center;
+}
+.ta{
+    text-align: center;
+   
+}
+body{
+    background-color: #161623;
+  }
+.ge{
+    border: 6px solid black;
+    padding: auto;
+}
+.go{
+    width: 30%;
+}
+.git{
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.git:hover{
+    background-color: #14fb8b;
+}
+.curriculo{
+    background-color: #ff2a00;
+    color: white;
+    padding: 5px;
+    margin-right: 5px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    text-decoration: none;
+    transition: transform 0.3s ease-in-out;
+}
+.curriculo:hover{
+    background-color: #14fb8b;
+    transform: scale(1.1);
+}
+.hardware{
+    background-color: #00bbff;
+    color: white;
+    padding: 5px;
+    margin-right: 5px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-bottom: 5px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.hardware:hover{
+    background-color: #14fb8b;
+    transform: scale(1.1);
+}
+.software{
+    background-color: #1404f4;
+    color: white;
+    padding: 5px;
+    margin-right: 5px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-bottom: 5px;
+    transition: transform 0.3s ease-in-out;
+    text-decoration: none;
+}
+.Contato{
+    background-color: #ecf404dd;
+    color: white;
+    padding: 5px;
+    margin-right: 5px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-bottom: 5px;
+    transition: transform 0.3s ease-in-out;
+    text-decoration: none;
+}
+.Contato:hover{
+    background-color: #14fb8b;
+    transform: scale(1.1);
+    
+}
+.software:hover{
+    background-color: #14fb8b;
+    transform: scale(1.1);
+}
+#div-menu{
+border: solid 2px rgb(0, 0, 10);
+/*width: 50%;*/
+margin: 3px;
+display: flex;
+ flex-direction: column;
+ padding-left: 5px;
+
+}
+#div-tudo{
+    border: solid 1px red;
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+}
+#centro{
+    border: solid 5px rgb(26, 255, 0);
+    color: #fff;
+}
